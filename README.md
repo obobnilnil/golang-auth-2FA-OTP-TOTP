@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/4400999/75789359-8ee24780-5d37-11ea-9710-15eea7a51241.png" alt="2fa" width="350"/>
 </div>
 <H1>ReadME</H1>
-This Golang-based code demonstrates how to create an API using the Gin framework for validating OTP via email and TOTP via authenticators such as Google Authenticator, Microsoft Authenticator, LINE-Application, and others. It is written using hexagonal architecture.
+This Golang-based code demonstrates how to create an API using the Gin framework to implement two-factor authentication (2FA). It validates OTPs via email and TOTPs through authenticators such as Google Authenticator, Microsoft Authenticator, LINE-Application, and others. The code is written using hexagonal architecture.
 <div align="center">
     <img src="https://github.com/user-attachments/assets/942c3d96-b37a-4fa0-b5d0-bce74a1fdac9" alt="Gin" width="500"/>
 </div>
