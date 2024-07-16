@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://neonxp.gallerycdn.vsassets.io/extensions/neonxp/gotools/0.1.5/1691451648679/Microsoft.VisualStudio.Services.Icons.Default" alt="Gin" width="500"/>
-    <img src="https://user-images.githubusercontent.com/4400999/75789359-8ee24780-5d37-11ea-9710-15eea7a51241.png" alt="2fa" width="400"/>
+    <img src="https://neonxp.gallerycdn.vsassets.io/extensions/neonxp/gotools/0.1.5/1691451648679/Microsoft.VisualStudio.Services.Icons.Default" alt="Gin" width="400"/>
+    <img src="https://user-images.githubusercontent.com/4400999/75789359-8ee24780-5d37-11ea-9710-15eea7a51241.png" alt="2fa" width="350"/>
 </div>
 <H1>ReadME</H1>
 This Golang-based code demonstrates how to create an API using the Gin framework for validating OTP via email and TOTP via authenticators such as Google Authenticator, Microsoft Authenticator, LINE-Application, and others. It is written using hexagonal architecture.
