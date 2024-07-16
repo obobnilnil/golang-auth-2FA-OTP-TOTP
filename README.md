@@ -15,10 +15,11 @@ This Golang-based code demonstrates how to create an API using the Gin framework
     <H1>There are many libraries available to use an otpauth/TOTP link to generate a QR code for TOTP.</H1>
     <img src="https://github.com/user-attachments/assets/d12b2427-9599-4fe3-a2d1-e51113046d8f" alt="TOTP" width="600"/>
     <H1>Microsoft Authenticator</H1>
-    <img src="https://github.com/user-attachments/assets/7917ed2b-7aa8-4bb7-899f-3c222f961f31" alt="TOTP" width="250"/>
+    <img src="https://github.com/user-attachments/assets/7cc6caf3-534d-4453-a757-688c8d6383b4" alt="TOTP" width="250"/>
     <H1>Google Authenticator</H1>
-    <img src="https://github.com/user-attachments/assets/6e3b3f8e-5815-4bd0-bb62-c1a02e925283" alt="TOTP" width="250"/>
+    <img src="https://github.com/user-attachments/assets/3ecfd1e0-7d6b-4850-aa72-818aa827c78d" alt="TOTP" width="250"/>
     <H1>Both TOTPs from different authenticators generate the same TOTP number, which can be used for validation within 30 seconds.</H1>
-    <img src="https://github.com/user-attachments/assets/dfa66d69-5efa-4cc4-ba2b-6d8eeef6b269" alt="TOTP" width="500"/>
+    <img src="https://github.com/user-attachments/assets/ab913ccf-f4e5-45c0-9d6e-227657a4a266" alt="TOTP" width="500"/>
 </div>
+
 Golang/Gin-framework database postgresql+pgadmin
